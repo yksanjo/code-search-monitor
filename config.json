@@ -1,0 +1,12 @@
+{
+  "domains": [
+    "example.com",
+    "yourcompany.com"
+  ],
+  "interval": 30,
+  "verbose": false,
+  "alerts": {
+    "console": true,
+    "email": null
+  }
+}

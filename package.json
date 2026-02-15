@@ -1,0 +1,21 @@
+{
+  "name": "code-search-monitor",
+  "version": "1.0.0",
+  "description": "Monitors code search engines for leaked credentials in public code",
+  "main": "src/index.js",
+  "bin": {
+    "code-search-monitor": "./src/index.js"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": ["security", "monitoring", "credentials", "code-search"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0-rc.12",
+    "commander": "^11.1.0"
+  }
+}
