@@ -1,5 +1,12 @@
 # code-search-monitor
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/code-search-monitor/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/code-search-monitor/actions)
+![License](https://img.shields.io/github/license/yksanjo/code-search-monitor)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/code-search-monitor)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/code-search-monitor)
+
 ## Detailed Description
 
 code-search-monitor is maintained as an industry-grade software project with production-ready engineering practices.  
